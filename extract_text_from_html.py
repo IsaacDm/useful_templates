@@ -1,3 +1,8 @@
+'''
+This code extracts the plain text from any html file
+'''
+
+
 import urllib
 from bs4 import BeautifulSoup
 from urllib.request import urlopen
